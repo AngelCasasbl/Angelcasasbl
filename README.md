@@ -5,7 +5,7 @@
 
 - 🌱 Estoy aprendiendo **Python, R, HTML, CSS y Google cloud**
 
-- 📫 How to reach me **angelcasasbl@gmail.com**
+- 📫 mi correo es **angelcasasbl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
