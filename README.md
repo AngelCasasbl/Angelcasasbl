@@ -1,11 +1,9 @@
 <h1 align="center">Hola 👋, Soy Luis Angel casas Ballestas</h1>
 <h3 align="center">Ingeniero de datos en formación</h3>
 
-- 🔭 I’m currently working on [Dataleik](www.google.com)
+- 🔭  Actualmente estoy trabajando en [Dataleik](www.google.com)
 
-- 🌱 I’m currently learning **Python, R, HTML, CSS y Google cloud**
-
-- 👯 I’m looking to collaborate on **dasdnasld**
+- 🌱 Estoy aprendiendo **Python, R, HTML, CSS y Google cloud**
 
 - 📫 How to reach me **angelcasasbl@gmail.com**
 
