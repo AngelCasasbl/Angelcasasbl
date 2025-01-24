@@ -2,7 +2,6 @@
   <img height="150" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  />
 </div>
 
-
 ###
 
 <div align="center">
