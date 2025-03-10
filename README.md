@@ -1,70 +1,44 @@
-<div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"  />
-</div>
+# 👋 ¡Hola! Soy Luis Ángel Casas Ballestas  
 
-###
+### 🚀 Ingeniero de Datos | Analista de Datos  
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/luisangelcasasballestas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
+Soy un **Ingeniero de Datos y Analista de Datos** con más de dos años de experiencia en el sector financiero y comercial, especializado en transformar datos complejos en información estratégica. Me apasiona el análisis, la optimización de procesos ETL y la creación de soluciones escalables en la nube.  
 
-###
+---  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=angelcasasbl.angelcasasbl&"  />
-</div>
+## 🛠️ Tecnologías y Herramientas  
 
-###
+### 🔹 Bases de Datos & ETL  
+`SQL Server` | `PostgreSQL` | `MariaDB` | `BigQuery` | `SSIS` | `Python (pandas, Polars, SQLAlchemy, Siuba)` | `R (dplyr, dbplyr)`  
 
-<br clear="both">
+### 🔹 Análisis & Machine Learning  
+`Python` | `R` | `Scikit-learn`  
 
-<h1 align="center">Hola 👋, a todos</h1>
+### 🔹 Visualización & Reportes  
+`Power BI` | `Tableau` | `RStudio (ggplot2, echarts4r, Shiny)`  
 
-###
+### 🔹 Desarrollo & Despliegue  
+`Docker` | `Python (FastAPI)`  
 
-<h3 align="left">👩‍💻  About Me</h3>
+### 🔹 Cloud & Infraestructura  
+`GCP` | `Digital Ocean`  
 
-###
+---  
 
-<p align="left">I'm Luis Angel Casas Ballestas from Barranquilla, Colombia<br><br>- 🔭 I’m working as Data Engineer<br>- 📚 I'm currently learning Python, R, SQL<br>- ⚡ In my free time I listen music</p>
+## 🌟 Sobre mí  
 
-###
+- 💡 **Más de 30 proyectos de datos y ETL** liderados en contextos financieros, comerciales y productivos.  
+- 🏆 **Expositor en conferencias sobre Git & GitHub**, compartiendo buenas prácticas y flujos de trabajo en control de versiones.  
+- 💻 Desarrollo de **reportes analíticos avanzados** con herramientas como RStudio y Power BI.  
+- 🌍 **Miembro activo en comunidades de tecnología y datos**.  
+- 📊 Implementación de **procesos ETL y modelado de datos en bases relacionales y en la nube**.  
 
-<h3 align="left">🛠 Language and tools</h3>
+---  
 
-###
+## 📫 Conéctate conmigo  
 
-<br clear="both">
+📌 **LinkedIn:** [linkedin.com/in/luisangelcasas](#)  
+📌 **GitHub:** [github.com/tuusuario](#)  
+📌 **Portafolio:** [tuportafolio.com](#)  
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=angelcasasbl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="210" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=angelcasasbl&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+💡 ¡Siempre abierto a nuevas oportunidades y colaboraciones en proyectos de datos! 🚀  
