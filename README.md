@@ -37,8 +37,7 @@ Soy un **Ingeniero de Datos y Analista de Datos** con más de dos años de exper
 
 ## 📫 Conéctate conmigo  
 
-📌 **LinkedIn:** [linkedin.com/in/luisangelcasas](#)  
-📌 **GitHub:** [github.com/tuusuario](#)  
-📌 **Portafolio:** [tuportafolio.com](#)  
+📌 **LinkedIn:** [linkedin.com/in/luisangelcasasballestas](#)  
+📌 **GitHub:** [[github.com/AngelCasasbl](https://github.com/AngelCasasbl)](#)  
 
 💡 ¡Siempre abierto a nuevas oportunidades y colaboraciones en proyectos de datos! 🚀  
